@@ -54,13 +54,14 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: relative;
 }
 
 #bottom-child02 {
+  position: relative;
   left: 200px;
 }
 
 #bottom-child03 {
+  position: relative;
   left: 400px;
 }
